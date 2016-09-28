@@ -8,7 +8,7 @@ module.exports = {
 
     app.import(app.bowerDirectory + '/antiscroll/antiscroll.js');
     app.import(app.bowerDirectory + '/antiscroll/antiscroll.css');
-    app.import(app.bowerDirectory + '/jquery-ui/jquery-ui.js');
+    app.import(app.bowerDirectory + '/jquery-ui/ui/minified/jquery-ui.custom.min.js');
     app.import(app.bowerDirectory + '/jquery-mousewheel/jquery.mousewheel.js');
   },
 
